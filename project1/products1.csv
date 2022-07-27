@@ -1,0 +1,11 @@
+__v,_id,category,createdAt,description,imagename,imageurl,name,price,quantity,shipping,sold,updatedAt
+0,62d16dd0daa1d224cc9ea24d,62d16d26daa1d224cc9ea24c,2022-07-15T13:38:24.698Z,Classic 2- door wardrobe,wardrobe1.jpg,http://localhost:5000/images/wardrobe1.jpg,Malaga Wardrode,20000,12,true,0,2022-07-15T13:38:24.698Z
+0,62d261eb2073532da03566dc,62d25f4d2073532da03566da,2022-07-16T06:59:55.363Z,"Golden Iron Led With Wall Art
+By Malik Design",decor1.webp,http://localhost:5000/images/decor1.webp,Golden Iron Led With Wall Art,8049,20,true,0,2022-07-16T06:59:55.363Z
+0,62d263572073532da03566dd,62d25f2a2073532da03566d7,2022-07-16T07:06:00.002Z,Morpilot 10 inch Memory Foam and Innerspring Hybrid Mattress/bed,beds&Mat1.jpg,http://localhost:5000/images/beds&Mat1.jpg,Foam & Innerspring Bed,5009,11,true,0,2022-07-16T07:06:00.002Z
+0,62d263902073532da03566de,62d25f2a2073532da03566d7,2022-07-16T07:06:56.643Z,"Adjustable Electric Bed Chenille With 8"" Memory Foam Mattress
+",beds&Mat2.jpg,http://localhost:5000/images/beds&Mat2.jpg,Electric Bed,5546,17,true,0,2022-07-16T07:06:56.643Z
+0,62d263e42073532da03566df,62d25f2a2073532da03566d7,2022-07-16T07:08:20.783Z,"Queen Mattress, Novilla 10 inch Gel Memory Foam Queen Size Mattress",beds&Mat3.jpeg,http://localhost:5000/images/beds&Mat3.jpeg,Queen Sized Mattress,10000,20,true,0,2022-07-16T07:08:20.783Z
+0,62d264222073532da03566e0,62d25f5d2073532da03566db,2022-07-16T07:09:22.852Z,"Carpet, rug",carpet1.jpg,http://localhost:5000/images/carpet1.jpg,Floor Carpet,7333,25,true,0,2022-07-16T07:09:22.852Z
+0,62d264542073532da03566e1,62d25f5d2073532da03566db,2022-07-16T07:10:12.964Z,"stripe stair carpet kingsley
+",carpet2.jpg,http://localhost:5000/images/carpet2.jpg,Stairs Carpet,2499,15,true,0,2022-07-16T07:10:12.964Z

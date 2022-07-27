@@ -1,0 +1,6 @@
+__v,_id,category,createdAt,description,imagename,imageurl,name,price,quantity,shipping,sold,updatedAt
+0,62cae8be970a4c22fc41e3c0,62cadc8eadc71f37085fb98a,2022-07-10T14:57:02.654Z,Brown Chair,Chair 1.jpg,http://localhost:5000/images/Chair 1.jpg,Brown Chair,1000,200,true,0,2022-07-10T14:57:02.654Z
+0,62cae8f2970a4c22fc41e3c2,62cadc8eadc71f37085fb98a,2022-07-10T14:57:54.709Z,chair,chair 2.jpg,http://localhost:5000/images/chair 2.jpg,chair,2000,5,true,0,2022-07-10T14:57:54.709Z
+0,62cae910970a4c22fc41e3c3,62cae87f970a4c22fc41e3be,2022-07-10T14:58:24.974Z,Blue Curtain,curtain 2.jpg,http://localhost:5000/images/curtain 2.jpg,Blue Curtain,3000,200,true,0,2022-07-10T17:03:03.468Z
+0,62cae99c970a4c22fc41e3c5,62cae893970a4c22fc41e3bf,2022-07-10T15:00:44.721Z,Brown Lamp,recliner.jpg,http://localhost:5000/images/recliner.jpg,Brown Lamp,30000,500,true,0,2022-07-10T15:00:44.721Z
+0,62cae9b4970a4c22fc41e3c6,62cae893970a4c22fc41e3bf,2022-07-10T15:01:08.293Z,Black Recliner,recliner2.jpg,http://localhost:5000/images/recliner2.jpg,Black Recliner,40000,600,true,0,2022-07-10T15:01:08.293Z
